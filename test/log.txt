@@ -1,0 +1,2 @@
+ls: cannot access 'pippo': No such file or directory
+-rw-r--r-- 1 cafagnos fisica 0 Nov  6 11:34 err.txt
